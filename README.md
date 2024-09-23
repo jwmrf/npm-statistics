@@ -10,12 +10,12 @@ NPM Download Statistics for DavidWells Open Source Projects. Updated Daily.
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                     | Downloads |
 | ------------------------------------------------------------------------ | --------- |
-| **Total**                                                                | **2,806** |
-| [cover-image-crawler](https://www.npmjs.com/package/cover-image-crawler) | 2,120     |
-| [array-concat-sum](https://www.npmjs.com/package/array-concat-sum)       | 303       |
-| [multi-str-replace](https://www.npmjs.com/package/multi-str-replace)     | 210       |
-| [one-cluster](https://www.npmjs.com/package/one-cluster)                 | 173       |
-| **Total**                                                                | **2,806** |
+| **Total**                                                                | **6,257** |
+| [cover-image-crawler](https://www.npmjs.com/package/cover-image-crawler) | 3,563     |
+| [array-concat-sum](https://www.npmjs.com/package/array-concat-sum)       | 978       |
+| [one-cluster](https://www.npmjs.com/package/one-cluster)                 | 953       |
+| [multi-str-replace](https://www.npmjs.com/package/multi-str-replace)     | 763       |
+| **Total**                                                                | **6,257** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
